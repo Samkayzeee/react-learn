@@ -1,12 +1,10 @@
-import { useState } from 'react';
-import './App.css';
 
 function App() {
   return (
     <div className="App">
-      Learning React More
+      <h1> Learning More of React </h1>
     </div>
   )
 }
 
-export default App
+export default App;
